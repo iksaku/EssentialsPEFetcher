@@ -1,3 +1,8 @@
+/* TODO
+ - Add a "loader" function
+ - Move the "fetcher" to another file
+*/
+
 var UI = require("ui");
 var ajax = require("ajax");
 
